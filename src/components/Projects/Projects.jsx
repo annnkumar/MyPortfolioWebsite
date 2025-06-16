@@ -177,7 +177,7 @@ const Projects = () => {
       description: 'A personal portfolio website showcasing my projects and skills with a modern UI.',
       technologies: ['React', 'Styled Components', 'Framer Motion', 'React Icons'],
       github: 'https://github.com/annnkumar/portfolio',
-      demo: '',
+      demo: 'https://ankitportfoliowebsite2.netlify.app/',
       image: '/images/image4.png',
       icon: <FaCode />
     },
@@ -186,7 +186,7 @@ const Projects = () => {
       title: 'Forest Fire Prediction',
       description: 'A Machine Learning Project predict chances of forest fire by giving input value.',
       technologies: ['Python' , 'ML' , 'Flask'],
-      github: 'https://github.com/annnkumar/FOREST-FIRE-PREDICTION',
+      github: 'https://github.com/annnkumar/fire-weather-index-calculator',
       demo: '',
       image: '/images/image5.png',
       icon: <FaCode />
@@ -196,8 +196,8 @@ const Projects = () => {
       title: 'Weather App',
       description: 'A simple web which gives the current tempreture.',
       technologies: ['Html' , 'Css' , 'js' , 'Api-Integration'],
-      github: 'https://github.com/annnkumar/FOREST-FIRE-PREDICTION',
-      demo: '',
+      github: 'https://github.com/annnkumar/Weather-App',
+      demo: 'https://weather-app-lilac-nine-50.vercel.app/',
       image: '/images/image5.png',
       icon: <FaCode />
     }
